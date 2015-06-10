@@ -1,0 +1,79 @@
+2015-06-10 09:00:11.776: [INFO] - (Warning) Test State - The timer has not started. If you have the default constructor test that comes with solution, please ensure that you build the solution before writing your first test
+2015-06-10 09:00:50.234: [INFO] - (TwoThumbs) Test State - Great, Katarai has noticed you’ve built the solution, and your kata timer has started! Please go ahead and write the first test.
+Hint:
+Your first test is: Return zero when an empty string is passed in
+2015-06-10 09:01:04.604: [INFO] - (Warning) Test State - You wrote a valid test, but there is a simpler first test that could be written. Remember that we are looking for the simplest test at all times to drive the code in tiny increments.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test Katarai was expecting was: Return zero when an empty string is passed in
+The test you wrote appears to be testing: Return the integer value of the numeric string
+2015-06-10 09:01:33.829: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-10 09:02:02.253: [INFO] - (TwoThumbs) Test State - Success! With that test passing, please continue on to writing the next one.
+Hint:
+Your next test is: Return the integer value of the numeric string
+2015-06-10 09:03:42.489: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-10 09:04:33.772: [INFO] - (TwoThumbs) Test State - Success! With that test passing, please continue on to writing the next one.
+Hint:
+Your next test is: Sum numbers separated by comma
+2015-06-10 09:06:05.101: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-10 09:08:55.104: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. It is good practice to ensure that you are testing edge cases – can you find another edge case that should be tested in this same scenario?
+Hint:
+
+Have you tested for three numbers?
+2015-06-10 09:09:34.613: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-10 09:09:49.941: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-10 09:10:46.561: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-10 09:12:52.071: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-10 09:14:04.494: [INFO] - (Warning) Test State - A test that was previously passing has broken! Perhaps undo the change you made and try again, or try and see why the test broke.
+2015-06-10 09:14:27.781: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-10 09:16:56.245: [INFO] - (Warning) Test State - A test that was previously passing has broken! Perhaps undo the change you made and try again, or try and see why the test broke.
+2015-06-10 09:17:32.510: [INFO] - (Warning) Test State - You wrote a valid test, but there is a simpler test that could be written first. Remember that we are looking for the next simplest test at all times to drive the code in tiny increments.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test Katarai was expecting was: Return the integer value of the numeric string
+The test you wrote appears to be testing: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-10 09:18:13.811: [INFO] - (Warning) Test State - You wrote a valid test, but there is a simpler test that could be written first. Remember that we are looking for the next simplest test at all times to drive the code in tiny increments.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test Katarai was expecting was: Return the integer value of the numeric string
+The test you wrote appears to be testing: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-10 09:19:41.137: [INFO] - (Warning) Test State - You wrote a valid test, but there is a simpler test that could be written first. Remember that we are looking for the next simplest test at all times to drive the code in tiny increments.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test Katarai was expecting was: Return the integer value of the numeric string
+The test you wrote appears to be testing: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-10 09:20:27.454: [INFO] - (Warning) Test State - You wrote a valid test, but there is a simpler test that could be written first. Remember that we are looking for the next simplest test at all times to drive the code in tiny increments.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test Katarai was expecting was: Return the integer value of the numeric string
+The test you wrote appears to be testing: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-10 09:22:22.778: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. To improve your implementation to be more generic, write another test for the same scenario with different values and then go on to get that test to pass too.
+2015-06-10 09:22:55.060: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. To improve your implementation to be more generic, write another test for the same scenario with different values and then go on to get that test to pass too.
+2015-06-10 09:23:22.566: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. To improve your implementation to be more generic, write another test for the same scenario with different values and then go on to get that test to pass too.
+2015-06-10 09:23:30.870: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. To improve your implementation to be more generic, write another test for the same scenario with different values and then go on to get that test to pass too.
+2015-06-10 09:24:38.445: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. To improve your implementation to be more generic, write another test for the same scenario with different values and then go on to get that test to pass too.
+2015-06-10 09:26:12.082: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. To improve your implementation to be more generic, write another test for the same scenario with different values and then go on to get that test to pass too.
+2015-06-10 09:29:25.948: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-10 09:32:04.494: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-10 09:34:55.138: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-10 09:35:35.447: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Handle a single custom delimiter e.g. //;\n1;2
