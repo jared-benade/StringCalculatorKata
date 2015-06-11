@@ -1,0 +1,72 @@
+2015-06-11 08:45:19.491: [INFO] - (TwoThumbs) Test State - Great, Katarai has noticed you’ve built the solution, and your kata timer has started! Please go ahead and write the first test.
+Hint:
+Your first test is: Return zero when an empty string is passed in
+2015-06-11 08:46:38.764: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:46:49.018: [INFO] - (TwoThumbs) Test State - Success! With that test passing, please continue on to writing the next one.
+Hint:
+Your next test is: Return the integer value of the numeric string
+2015-06-11 08:47:55.228: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:48:36.464: [INFO] - (TwoThumbs) Test State - Success! With that test passing, please continue on to writing the next one.
+Hint:
+Your next test is: Sum numbers separated by comma
+2015-06-11 08:49:40.696: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:50:59.938: [INFO] - (TwoThumbs) Test State - Success! Your test is passing. It is good practice to ensure that you are testing edge cases – can you find another edge case that should be tested in this same scenario?
+Hint:
+
+Have you tested for three numbers?
+2015-06-11 08:51:27.167: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-06-11 08:52:45.406: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:53:10.646: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Handle a single custom delimiter e.g. //;\n1;2
+2015-06-11 08:54:38.881: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-11 08:54:58.112: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:59:01.343: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:59:37.568: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 08:59:54.823: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 09:00:59.064: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 09:01:41.321: [INFO] - (TwoThumbs) Test State - You’ve written a valid failing test; please continue to write the implementation that will get this test to pass.
+2015-06-11 09:01:52.574: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-06-11 09:14:28.784: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-11 09:14:44.233: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-11 09:15:44.493: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-11 09:16:19.752: [INFO] - (Warning) Test State - The implementation you wrote could be simpler than it is – your test is passing but there is a simpler solution. Remember that you are trying to write the simplest/least possible production code to get your tests to pass.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test you are trying to get to pass is: Return the negative number using the provided NegativesNotAllowedException
+The code you wrote also gets the following test to pass: Return all negative numbers using the provided NegativesNotAllowedException
+2015-06-11 09:19:10.999: [INFO] - (Warning) Test State - The implementation you wrote could be simpler than it is – your test is passing but there is a simpler solution. Remember that you are trying to write the simplest/least possible production code to get your tests to pass.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test you are trying to get to pass is: Return the negative number using the provided NegativesNotAllowedException
+The code you wrote also gets the following test to pass: Return all negative numbers using the provided NegativesNotAllowedException
+2015-06-11 09:19:43.238: [INFO] - (Warning) Test State - A test that was previously passing has broken! Perhaps undo the change you made and try again, or try and see why the test broke.
+2015-06-11 09:22:13.520: [INFO] - (Warning) Test State - Katarai senses that there is an issue with your failing test – please correct the test before you try to get it passing.
+
+2015-06-11 09:23:18.766: [INFO] - (Warning) Test State - The implementation you wrote could be simpler than it is – your test is passing but there is a simpler solution. Remember that you are trying to write the simplest/least possible production code to get your tests to pass.
+For a bigger discussion of this, see Uncle Bob’s Three Rules of TDD
+(http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+Hint:
+The test you are trying to get to pass is: Return the negative number using the provided NegativesNotAllowedException
+The code you wrote also gets the following test to pass: Return all negative numbers using the provided NegativesNotAllowedException
+2015-06-11 09:29:19.993: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Return all negative numbers using the provided NegativesNotAllowedException
+2015-06-11 09:44:51.481: [INFO] - (TwoThumbs) Test State - Success! Your test is passing.
+Now is your chance to refactor: if you can see anything you can improve in your implementation code then do so now. If you don’t see anything you can improve then go on to the next test.
+Hint:
+Your next test is: Return all negative numbers using the provided NegativesNotAllowedException
